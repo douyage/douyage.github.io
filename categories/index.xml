@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on douyage</title>
+    <link>https://douyage.github.io/categories/</link>
+    <description>Recent content in Categories on douyage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="https://douyage.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java</title>
+      <link>https://douyage.github.io/categories/java/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://douyage.github.io/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propaganda</title>
+      <link>https://douyage.github.io/categories/propaganda/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://douyage.github.io/categories/propaganda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
